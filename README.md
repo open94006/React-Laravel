@@ -4,7 +4,7 @@
 
 - 一個**前後端分離**的簡單CRUD網站  
 - 符合業界上的**職務分工**，理解前後端各自會遇到的問題，以及**需要溝通**的部分  
-- 使用PHP Laravel結合前端框架React.js
+- 使用PHP Laravel結合前端框架React.js  
  
 ### 參考資源  
 Laravel ReactJS CRUD with RestAPI Tutorial  
