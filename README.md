@@ -1,4 +1,4 @@
-# React-Laravel CRUD 前後段分離
+# React-Laravel CRUD 前後端分離
 
 使用React.js來去呼叫api，Laravel的部分**只需要整理好資料**就可以了，在前端的部分React.js也能專心作呈現畫面的工作，**前後端分離的優勢**就出來了。 
 
